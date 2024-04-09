@@ -6,9 +6,6 @@ Sure! Here's a sample README content for a single-page portfolio on GitHub:
 
 Welcome to my portfolio! This repository contains the code and assets for my personal portfolio website. This website showcases my projects, skills, and experiences.
 
-## Live Demo
-
-You can view the live demo of my portfolio [here](https://your-portfolio-url.com).
 
 ## Technologies Used
 
