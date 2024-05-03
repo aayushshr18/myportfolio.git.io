@@ -1,7 +1,3 @@
-Sure! Here's a sample README content for a single-page portfolio on GitHub:
-
----
-
 # My Portfolio
 
 Welcome to my portfolio! This repository contains the code and assets for my personal portfolio website. This website showcases my projects, skills, and experiences.
