@@ -24,7 +24,3 @@ Welcome to my portfolio! This repository contains the code and assets for my per
 3. Customize the content in `index.html` and `style.css` files to reflect your own projects, skills, and experiences.
 4. If you'd like to deploy your portfolio, you can use GitHub Pages or any other hosting service of your choice.
 
-## Contributing
-
-If you find any issues with the portfolio or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
