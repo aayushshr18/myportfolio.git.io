@@ -1,5 +1,4 @@
-# My Raw
-PortFolio 
+# My Raw PortFolio 
 
 Welcome to my portfolio! This repository contains the code and assets for my personal portfolio website. This website showcases my projects, skills, and experiences.
 
