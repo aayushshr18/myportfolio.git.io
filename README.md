@@ -11,7 +11,7 @@ Welcome to my portfolio! This repository contains the code and assets for my per
 
 ## Features
 
-- Single-page design for easy navigation
+- Single-page design for easy navigation.
 - Responsive layout for optimal viewing on various devices
 - Section for showcasing projects with descriptions and links
 - About me section to introduce myself
