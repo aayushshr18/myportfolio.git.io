@@ -22,5 +22,5 @@ Welcome to my portfolio! This repository contains the code and assets for my per
 1. Clone this repository to your local machine using `git clone https://github.com/your-username/portfolio.git`.
 2. Open the `index.html` file in your web browser to view the portfolio.
 3. Customize the content in `index.html` and `style.css` files to reflect your own projects, skills, and experiences.
-4. If you'd like to deploy your portfolio, you can use GitHub Pages or any other hosting service of your choice.
+4. If you'd like to deploy your portfolio, you can use GitHub Pages or any other hosting service of your choice
 
