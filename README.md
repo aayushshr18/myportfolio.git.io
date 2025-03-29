@@ -5,9 +5,9 @@ Welcome to my portfolio! This repository contains the code and assets for my per
 
 ## Technologies Used
 
--- HTML5
--- CSS3
--- JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 ## Features
 
