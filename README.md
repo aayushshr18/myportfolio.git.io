@@ -15,7 +15,4 @@ Welcome to my portfolio! This repository contains the code and assets for my per
 - Responsive layout for optimal viewing on various devices
 - Section for showcasing projects with descriptions and links
 - About me section to introduce myself
-- Contact form for easy communication
-
-And So on 
-
+- Contact form for easy communication.
