@@ -23,7 +23,7 @@ This portfolio serves as a central place to present my work, skills, and experie
 
 *Coming soon – add screenshots of your site here!*
 
-## 🛠️ How to Use this repo
+## 🛠️ How to Use
 
 1. Clone the repository:
    ```bash
